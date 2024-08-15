@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://www.cycleworld.com/resizer/F9d7xzodewJONb9v08XT3s4WFLQ=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/IOFQOKJEHJD4LJ6J4HYYSQJJZE.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+header,footer{
+    background-color: aqua;
+    width: 100%;
+    height: 100px;
+}
+img{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    padding-left: 10%;
+    margin-top: 10px;
+    vertical-align: middle;
+}
+.div2{
+    display: inline-block;
+    margin-left: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#div3{
+    display: inline-block;
+    background-color: darkorange;
+    width: 26%;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 20px;
+}
+#div4{
+    display: inline-block;
+    background-color: fuchsia;
+    width:60%;
+    float: right;
+    margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 20px;
+}
